@@ -150,7 +150,7 @@ Place the project inside your server's web directory.
 
 For XAMPP:
 
-```text
+``` Text
 htdocs/Final-Project
 ```
 
